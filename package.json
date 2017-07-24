@@ -1,0 +1,24 @@
+{
+  "name": "node-zone",
+  "version": "1.0.0",
+  "description": "ZoneJS Integration with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://amcdnl@github.com/amcdnl/node-zone.git"
+  },
+  "author": "Austin McDaniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amcdnl/node-zone/issues"
+  },
+  "homepage": "https://github.com/amcdnl/node-zone#readme",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "zone.js": "^0.8.14"
+  }
+}
